@@ -283,7 +283,7 @@ webencodings==0.5.1
 Werkzeug==1716533366070
 whatthepatch==1661796085215
 widgetsnbextension==1710960099872
-wrapt==1657814452175
+wrapt==1.10.10
 xarray==1689041498548
 xgboost==2.1.0
 xlwings==1718046948745
