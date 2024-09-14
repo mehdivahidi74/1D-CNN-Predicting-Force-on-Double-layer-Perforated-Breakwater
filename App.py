@@ -1,8 +1,5 @@
 import streamlit as st
-import os
 from PIL import Image
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
-import os
 import pandas as pd
 import numpy as np
 st.markdown("""
