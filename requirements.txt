@@ -11,7 +11,7 @@ appdirs==1.4.4
 arrow==1.2.3
 astroid==2.15.8
 astropy==5.2.2
-asttokens==2.3.2
+asttokens==2.4.1
 astunparse==1.6.3
 atomicwrites==1.4.0
 attrs==23.1.0
