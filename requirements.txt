@@ -1,5 +1,5 @@
 absl-py==2.1.0
-aiobotocore==1714464454692
+aiobotocore==2.15.0
 aiohttp==1715108828392
 aioitertools==1607109665762
 aiosignal==1637843061372
