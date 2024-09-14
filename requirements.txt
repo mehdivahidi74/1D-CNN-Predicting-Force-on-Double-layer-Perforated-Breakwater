@@ -23,6 +23,7 @@ attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
 Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
 autopep8 @ file:///croot/autopep8_1708962882016/work
 Babel @ file:///C:/b/abs_a2shv_3tqi/croot/babel_1671782804377/work
+backcall==0.2.0
 bcrypt @ file:///C:/Windows/Temp/abs_36kl66t_aw/croots/recipe/bcrypt_1659554334050/work
 beautifulsoup4 @ file:///C:/b/abs_d5wytg_p0w/croot/beautifulsoup4-split_1718029833749/work
 binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
@@ -60,6 +61,7 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///Users/ktietz/demo/mc3/conda-bld/diff-match-patch_1630511840874/work
 dill @ file:///C:/b/abs_f79eg27d2q/croot/dill_1715094735295/work
 distributed @ file:///C:/b/abs_27jqurd3gk/croot/distributed_1715844512065/work
+docopt==0.6.2
 docstring-to-markdown @ file:///C:/b/abs_cf10j8nr4q/croot/docstring-to-markdown_1673447652942/work
 docutils @ file:///C:/Windows/TEMP/abs_24e5e278-4d1c-47eb-97b9-f761d871f482dy2vg450/croots/recipe/docutils_1657175444608/work
 entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
@@ -102,7 +104,7 @@ intake @ file:///C:/b/abs_15sg46u7x7/croot/intake_1717513827138/work
 intel-openmp==2021.4.0
 intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
 ipykernel @ file:///C:/b/abs_c2u94kxcy6/croot/ipykernel_1705933907920/work
-ipython @ file:///C:/b/abs_b6pfgmrqnd/croot/ipython_1704833422163/work
+ipython==8.12.3
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets @ file:///C:/b/abs_4fgmepzmbu/croot/ipywidgets_1710961556913/work
 isort @ file:///tmp/build/80754af9/isort_1628603791788/work
@@ -130,10 +132,12 @@ jupyterlab @ file:///C:/b/abs_43venm28fu/croot/jupyterlab_1706802651134/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
 jupyterlab_server @ file:///C:/b/abs_e08i7qn9m8/croot/jupyterlab_server_1699555481806/work
-keras==3.4.1
+keras==2.10.0
 Keras-Preprocessing==1.1.2
+keras-tuner==1.4.7
 keyring @ file:///C:/b/abs_78uoj9sw00/croot/keyring_1709632550180/work
 kiwisolver @ file:///C:/b/abs_88mdhvtahm/croot/kiwisolver_1672387921783/work
+kt-legacy==1.0.5
 lazy-object-proxy @ file:///C:/b/abs_19td_nzb6n/croot/lazy-object-proxy_1712908735070/work
 lazy_loader @ file:///C:/b/abs_3bn4_r4g42/croot/lazy_loader_1695850158046/work
 lckr_jupyterlab_variableinspector @ file:///C:/b/abs_b5yb2mprx2/croot/jupyterlab-variableinspector_1701096592545/work
@@ -169,7 +173,7 @@ mypy @ file:///C:/b/abs_66qgae7agv/croot/mypy-split_1718008473940/work
 mypy-extensions @ file:///C:/b/abs_8f7xiidjya/croot/mypy_extensions_1695131051147/work
 namex==0.0.8
 nbclient @ file:///C:/b/abs_cal0q5fyju/croot/nbclient_1698934263135/work
-nbconvert @ file:///C:/b/abs_17p29f_rx4/croot/nbconvert_1699022793097/work
+nbconvert==7.16.4
 nbformat @ file:///C:/b/abs_5a2nea1iu2/croot/nbformat_1694616866197/work
 nest-asyncio @ file:///C:/b/abs_65d6lblmoi/croot/nest-asyncio_1708532721305/work
 networkx @ file:///C:/b/abs_3bxnu56g9d/croot/networkx_1717597507456/work
@@ -201,6 +205,7 @@ patsy==0.5.3
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 pillow @ file:///C:/b/abs_95ls_qh4c2/croot/pillow_1714398870615/work
+pipreqs==0.5.0
 platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
 plotly @ file:///C:/b/abs_4bg9qp7pkg/croot/plotly_1708976943925/work
 pluggy @ file:///C:/ci/pluggy_1648042746254/work
@@ -208,7 +213,7 @@ ply==3.11
 prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
 prompt-toolkit @ file:///C:/b/abs_68uwr58ed1/croot/prompt-toolkit_1704404394082/work
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
-protobuf==3.19.6
+protobuf==4.25.4
 psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
@@ -357,6 +362,7 @@ xgboost==2.1.0
 xlwings @ file:///C:/b/abs_6bsaqa795f/croot/xlwings_1718046948745/work
 xyzservices @ file:///C:/b/abs_8bh3h2qh76/croot/xyzservices_1675159066824/work
 yapf @ file:///C:/b/abs_8aidayep18/croot/yapf_1708964372649/work
+yarg==0.1.9
 yarl @ file:///C:/b/abs_8bxwdyhjvp/croot/yarl_1701105248152/work
 zict @ file:///C:/b/abs_780gyydtbp/croot/zict_1695832899404/work
 zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
